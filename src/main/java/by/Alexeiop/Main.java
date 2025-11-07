@@ -61,12 +61,12 @@ public class Main {
         }
 
         System.out.println(
-                "nameAnalysisPackage='" + nameAnalysisPackage + "\'," + '\n' +
-                        "urlAddressRepository='" + urlAddressRepository + "\'," + '\n' +
-                        "workingModeWithTestRepository='" + workingModeWithTestRepository + "\'," + '\n' +
-                        "versionPackage='" + versionPackage + "\'," + '\n' +
-                        "nameFileWithImageGraph='" + nameFileWithImageGraph + "\'," + '\n' +
-                        "ModePrintDependency='" + ModePrintDependency + "\'," + '\n' +
+                "nameAnalysisPackage='" + nameAnalysisPackage + "'," + '\n' +
+                        "urlAddressRepository='" + urlAddressRepository + "'," + '\n' +
+                        "workingModeWithTestRepository='" + workingModeWithTestRepository + "'," + '\n' +
+                        "versionPackage='" + versionPackage + "'," + '\n' +
+                        "nameFileWithImageGraph='" + nameFileWithImageGraph + "'," + '\n' +
+                        "ModePrintDependency='" + ModePrintDependency + "'," + '\n' +
                         "maxDepthAnalysisDependencies=" + maxDepthAnalysisDependencies);
 
         System.out.println();
